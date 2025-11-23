@@ -1,0 +1,16 @@
+{
+  "name": "tutopanda-movie-producer",
+  "version": "0.1.0",
+  "description": "Claude Code plugin that wires Tutopanda CLI commands and skills for generating, editing, and previewing documentary videos.",
+  "author": {
+    "name": "Tutopanda"
+  },
+  "keywords": [
+    "tutopanda",
+    "documentary",
+    "video",
+    "cli",
+    "mcp"
+  ],
+  "mcpServers": "./.mcp.json"
+}

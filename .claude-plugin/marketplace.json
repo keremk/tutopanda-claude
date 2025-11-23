@@ -1,0 +1,13 @@
+{
+  "name": "tutopanda-dev-marketplace",
+  "owner": {
+    "name": "Tutopanda"
+  },
+  "plugins": [
+    {
+      "name": "tutopanda-movie-producer",
+      "source": "./",
+      "description": "Claude Code plugin wiring Tutopanda CLI + MCP for documentary video generation and MP4 export."
+    }
+  ]
+}
